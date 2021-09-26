@@ -6,7 +6,7 @@ update system to python3 environment
 sudo python3 -m pip install --upgrade pip
 
 To print this command in terminal
-1. "cd ML_CLT"
+1. "cd to the environemnt file"
 2. "bash init.sh"
 
 3. cd Polynomial_Fitting
