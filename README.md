@@ -2,6 +2,8 @@ This command line tool can be used to perform polynomial fitting experiments as 
 
 
 To use the Comand line tools
+update system to python3 environment
+sudo python3 -m pip install --upgrade pip
 
 To print this command in terminal
 1. "cd ML_CLT"
